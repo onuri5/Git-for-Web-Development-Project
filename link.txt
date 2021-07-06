@@ -1,1 +1,21 @@
 https://codepen.io/TheOnuris/pen/rNmNYPe
+
+What is the difference between an inline element and a block element?
+
+A block level element will create a new line for said element, whilst a inline level element will continue along the same line as a previous element.
+
+What happens when an element is positioned absolutely?
+
+Think of your code like a cake, there are many layers. An element that is positioned absolutely can be layed underneath/above other elements without affecting them. you can interact with them without interacting with what's around them.
+
+How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+
+For this you can utilize flexbox. With flexbox you can precisely size elements and display them however you want.
+
+Name 3 elements that are display block by default, 2 elements that are display inline by default, and 1 element that is display inline-block by default
+
+Div, p, nav, span, img, button
+
+In your own words, explain the box model. What is the fix for the box model?
+
+The box model is made up various css properties that allow us to style our elements exactly to our needs. I don't know what the question means by "fix" but the box model includes the content, padding, border, margin.
